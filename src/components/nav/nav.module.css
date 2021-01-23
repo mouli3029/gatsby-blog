@@ -2,10 +2,9 @@
 *{
     margin: 0;
 }
-.nav{
+.navbar{
     background: linear-gradient(to top right, #6600cc 53%, #0033cc 100%);
     display: flex;
-    padding: 15px;
     color: #ffffff;
     box-shadow: 2px 2px #eeeeee;
     justify-content: space-between;

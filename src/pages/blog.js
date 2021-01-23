@@ -1,12 +1,11 @@
 import React from 'react'
-
+import Layout from '../components/layout'
 const BlogPage = () => {
-    return(
-        <div>
-          <h1>Blog</h1>
-          <p>Posts goes here</p>
-        </div>
-    )
+  return (
+    <Layout>
+       <h1>Blog</h1>
+        <p>Posts goes here</p>
+    </Layout>
+  )
 }
-
 export default BlogPage;
